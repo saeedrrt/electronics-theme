@@ -1,10 +1,10 @@
 {
     "name": {
-        "ar": "رائد",
-        "en": "Theme Raed"
+        "ar": "إلكترونيات",
+        "en": "Electronics Theme"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
-    "author_email": "support@salla.sa",
+    "repository": "",
+    "author_email": "support@example.com",
     "features": [
         "mega-menu",
         "fonts",
@@ -1074,9 +1074,9 @@
             ]
         }
     ],
-    "support_url": "https://salla.com/",
+    "support_url": "https://example.com/",
     "description": {
-        "ar": "مجموعة كبيرة من المزايا لدعم تجارتك وتقديم تجربة تسوق مثيرة لعملائك",
-        "en": "A wide range of features to support your business and provide an exciting shopping experience for your customers"
+        "ar": "ثيم احترافي مصمم خصيصاً لمتاجر الإلكترونيات والأجهزة التقنية - هواتف، لابتوب، إكسسوارات، ألعاب",
+        "en": "Professional theme designed for electronics and tech stores - phones, laptops, accessories, gaming"
     }
 }

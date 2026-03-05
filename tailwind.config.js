@@ -34,7 +34,12 @@ module.exports = {
                 'dark'         : '#1D1F1F',
                 'darker'       : '#0E0F0F',
                 'danger'       : '#AE0A0A',
-                'primary-dark' : 'var(--color-primary-dark)'
+                'primary-dark' : 'var(--color-primary-dark)',
+                // Electronics theme colors
+                'tech-blue'    : '#0066CC',
+                'tech-dark'    : '#1a1a2e',
+                'tech-gray'    : '#16213e',
+                'tech-accent'  : '#00d4ff',
             },
             spacing: {
               '3.75': '15px',
